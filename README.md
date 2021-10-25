@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **CSE-0309,CSE-0310**
+- 🔭 I’m currently working on **java,c++**
 
-- 🌱 I’m currently learning **java,C++**
+- 🌱 I’m currently learning **java,C++,C**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ridwanamajumder](https://github.com/ridwanamajumder)
 
 - 📫 How to reach me **ridr471@gmail.com**
-
-- 📄 Know about my experiences [in latex,Github,C programming,Java,Database](in latex,Github,C programming,Java,Database)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
