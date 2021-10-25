@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ridr471@gmail.com**
 
-- 📄 Know about my experiences [in latex,Github,C programming,java,database](in latex,Github,C programming,java,database)
+- 📄 Know about my experiences [in latex,Github,C programming,Java,Database](in latex,Github,C programming,Java,Database)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
