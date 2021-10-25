@@ -1,5 +1,5 @@
 <h1 align="center">Welcome! Hi 👋, I'm I am Ridwana Majumder</h1>
-<h3 align="center">I'm doing B.SC.in CSE at State University of Bangladesh</h3>
+<h3 align="center">I'm doing B.SC. in CSE at State University of Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridwanamajumder&label=Profile%20views&color=0e75b6&style=flat" alt="ridwanamajumder" /> </p>
 
